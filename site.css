@@ -1,0 +1,26 @@
+/* general */ 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin:0;
+    padding:0;
+   
+    font-family:'Bebas Neue', cursive;
+    
+}
+
+body {
+    background:linear-gradient(to right, rgb(228, 173, 21) 0%,rgb(228, 131, 21) 50%,rgb(188, 126, 10) 100%);;
+   
+ }
+
+ .row {
+    display: flex;
+    text-align: justify;
+    
+    
+}
+
+
+
+
+
